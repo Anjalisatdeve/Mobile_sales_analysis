@@ -47,17 +47,11 @@ The report contains **3 pages**:
 | `Screenshots/` | Dashboard preview images |
 | `README.md` | Project documentation |
 
-## 📸 Screenshots
-Add your dashboard screenshots here, e.g.:
-
-![Sales Dashboard](Screenshot Dashboard.png)
-![MTD Report](Screenshot MTD_Report.png)
-![Same Period Last Year](Screenshot Same_period_last_year.png)
 
 ## 🚀 How to Use
 1. Clone this repository
    ```bash
-   git clone https://github.com/your-username/mobile-sales-dashboard.git
+   git clone https://github.com//Anjalisatdeve/Mobile_sales_analysis.git
    ```
 2. Open `power bi.pbix` in **Power BI Desktop**
 3. Refresh the data source (if connected to your own dataset)
